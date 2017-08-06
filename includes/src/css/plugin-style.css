@@ -1,0 +1,15 @@
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: " ";
+}
+.clearfix:after {
+  clear: both;
+}
+#pestopp_modal.dark-style-theme .modal-header,
+#pestopp_modal.dark-style-theme .modal-footer {
+    background: #444;
+}
+#pestopp_modal.dark-style-theme .modal-header .modal-title {
+    color: #fff;
+}

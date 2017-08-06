@@ -1,0 +1,17 @@
+{
+  "name": "pesto-popup-plugin",
+  "version": "1.0.0",
+  "description": "Pesto Popup Plugin allows you to show popups with contact or email subscriber forms, age verification notices, basically anything; anywhere on your WordPress site via a shortcode or having the popup appear on pages, posts or any custom post type.",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MyDigitalSauce",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.0.1"
+  }
+}
